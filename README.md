@@ -7,6 +7,6 @@ Sources come from various places such as GitHub, Unsplash, and art generated wit
 ![img](https://i.imgur.com/arvB3UY.jpg)
 ![img](https://i.imgur.com/h6tCRRy.png)
 ![img](https://i.imgur.com/29dRue4.png)
+![img](https://i.imgur.com/ewn6Inl.png)
 ![img](https://i.imgur.com/3d1QmPE.png)
-!(IMG)[https://i.imgur.com/arvB3UY.jpg]
-!(IMG)[https://i.imgur.com/h6tCRRy.png]
+[img]https://i.imgur.com/xFLU6M7.png[/img]
