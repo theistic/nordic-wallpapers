@@ -14,5 +14,4 @@ Sources come from various places such as GitHub, Unsplash, and art generated wit
 |![img](https://i.imgur.com/arvB3UY.jpg)|![img](https://i.imgur.com/h6tCRRy.png)|
 |:---:|:---:|
 |![img](https://i.imgur.com/arvB3UY.jpg)|![img](https://i.imgur.com/h6tCRRy.png)|
-|:---:|:---:|
 |![img](https://i.imgur.com/arvB3UY.jpg)|![img](https://i.imgur.com/h6tCRRy.png)|
